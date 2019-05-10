@@ -7,9 +7,13 @@ A survey of vulnerabilities in .gov domains. Final project for GOV 1430: Tech Sc
 # Organization
 
 `data` includes raw data downloaded from the DotGov registrar as well as all shodan output
+
 `results` contain all of our quantitative data
+
 `visuals` contain all of our graphs, maps, and other graphics
+
 The home directory contains most of our helper code.
+
 
 The abandonedmines.gov case study is not included in this repo for security reasons.
 
