@@ -1,4 +1,5 @@
 # Our Vulnerable (Dot)Government
+![The dot gov means its official](visuals/dotgov-official.png)
 
 Lara Teich, Nari Johnson, Katherine Lou
 
